@@ -21,8 +21,8 @@ public class LoginServlet extends HttpServlet {
 		out.println("<title>Page Title</title>");
 		out.println("</head>");
 		out.println("<body>");
-		out.println("<h1>This is a Heading</h1>");
-		out.println("<p>This is a paragraph.</p>");
+		out.println("<h1>Ya taher ya chalghmi jebt l khedma wala lé</h1>");
+		out.println("<p>Meher bech yetlhé bel front end</p>");
 		out.println("</body>");
 		out.println("</html>");
 	}
